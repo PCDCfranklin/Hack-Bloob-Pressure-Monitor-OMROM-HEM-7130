@@ -1,4 +1,4 @@
-# Hack-Bloob-Pressure-Monitor-OMROM-HEM-7130
+# Hack Bloob Pressure Monitor OMROM HEM 7130
 ENG
 
 I2C Hack for blood pressure monitor for e-HEALTH o medical electronic scholar projects using Arduino.
